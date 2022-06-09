@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Practice/static/css/main.4faddc8f.css",
+    "main.js": "/React-Practice/static/js/main.b9b239fb.js",
+    "index.html": "/React-Practice/index.html",
+    "main.4faddc8f.css.map": "/React-Practice/static/css/main.4faddc8f.css.map",
+    "main.b9b239fb.js.map": "/React-Practice/static/js/main.b9b239fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4faddc8f.css",
+    "static/js/main.b9b239fb.js"
+  ]
+}
